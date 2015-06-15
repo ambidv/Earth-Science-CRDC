@@ -1,0 +1,2 @@
+# Earth-Science-CRDC
+With growing climate risk, it is evermore necessary to grow innovative capacity for resilience and adaptation. Using open climate data, imagine the possibilities of new applications that could fuel climate resilience efforts for communities and ecosystems as well as empower people to make smart decisions for the future. NASA and USGS invite you to take a step toward resilience by imagining solutions to our planet’s complex climate risks.
